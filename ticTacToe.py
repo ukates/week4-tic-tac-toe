@@ -1,8 +1,8 @@
 def printBoard(board):
     # TO DO #################################################################
     # Write code in this function that prints the game board.               #
-    # Simply print the code in this function, the user shouldn't interact   #
-    # with this function in any way.                                        #
+    # The code in this function should only print, the user should NOT      #
+    # interact with this function in any way.                               #
     #                                                                       #
     # Hint: you can follow the same process that was done in the textbook.  #
     #########################################################################
